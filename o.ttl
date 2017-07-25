@@ -4,12 +4,6 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 
-# Notes ########################################################################
-
-# @todo Clarify comments
-# @todo Add rdfs:subClassOf, rdfs:subPropertyOf, owl:equivalentProperty,
-#       owl:sameAs where needed
-
 # Classes ######################################################################
 
 o:Asset a rdfs:Class ;
