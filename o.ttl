@@ -11,19 +11,16 @@ o:Asset a rdfs:Class ;
     rdfs:comment "An asset." .
 o:Item a rdfs:Class ;
     rdfs:label "Item" ;
-    rdfs:comment "An item." ;
-    rdfs:subClassOf rdfs:Resource .
+    rdfs:comment "An item." .
 o:ItemSet a rdfs:Class ;
     rdfs:label "Item Set" ;
-    rdfs:comment "An item set." ;
-    rdfs:subClassOf rdfs:Resource .
+    rdfs:comment "An item set." .
 o:Job a rdfs:Class ;
     rdfs:label "Job" ;
     rdfs:comment "A job." .
 o:Media a rdfs:Class ;
     rdfs:label "Media" ;
-    rdfs:comment "A media." ;
-    rdfs:subClassOf rdfs:Resource .
+    rdfs:comment "A media." .
 o:Module a rdfs:Class ;
     rdfs:label "Module" ;
     rdfs:comment "A module." .
