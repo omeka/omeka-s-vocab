@@ -170,3 +170,6 @@
 :bibliography a rdf:Property ;
     rdfs:label "Bibliography"@en .
 
+:tag a rdf:Property ;
+    rdfs:label "Tag"@en ;
+    rdfs:subPropertyOf dcterms:subject .
