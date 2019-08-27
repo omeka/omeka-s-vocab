@@ -4,6 +4,8 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 
+# The "Omeka S" vocabulary
+
 # Classes ######################################################################
 
 o:Asset a rdfs:Class ;
@@ -63,7 +65,7 @@ o:Vocabulary a rdfs:Class ;
     rdfs:label "Vocabulary" ;
     rdfs:comment "A vocabulary." .
 
-# Properties ############################################################
+# Properties ###################################################################
 
 # ResourceReference
 # AbstractResourceRepresentation
